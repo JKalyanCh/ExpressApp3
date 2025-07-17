@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Andhra Thali",
+      "region_of_origin": "Andhra Pradesh",
+      "primary_flavor_profile": "Spicy and Tangy",
+      "main_protein_source": "Lentils & Legumes",
+      "staple_grain": "Steamed Rice",
+      "signature_dish": "Gutti Vankaya Kura (Stuffed Eggplant)",
+      "spice_level": 5,
+      "is_traditionally_vegetarian": true,
+      "serving_style": "Often served on a banana leaf (Arati Aaku)"
+    },
+    {
+      "id": 2,
+      "name": "Punjabi Thali",
+      "region_of_origin": "Punjab",
+      "primary_flavor_profile": "Rich and Buttery",
+      "main_protein_source": "Paneer & Legumes",
+      "staple_grain": "Wheat Breads",
+      "signature_dish": "Dal Makhani",
+      "spice_level": 3,
+      "is_traditionally_vegetarian": true,
+      "serving_style": "On a large steel plate (Thali)"
+    },
+    {
+      "id": 3,
+      "name": "Gujarati Thali",
+      "region_of_origin": "Gujarat",
+      "primary_flavor_profile": "Sweet and Savory",
+      "main_protein_source": "Legumes & Yogurt",
+      "staple_grain": "Wheat & Millet Breads",
+      "signature_dish": "Gujarati Kadhi",
+      "spice_level": 1,
+      "is_traditionally_vegetarian": true,
+      "serving_style": "On a steel plate with many small bowls (katoris)"
+    },
+    {
+      "id": 4,
+      "name": "Bengali Thali",
+      "region_of_origin": "West Bengal",
+      "primary_flavor_profile": "Pungent and Sweet",
+      "main_protein_source": "Fish & Seafood",
+      "staple_grain": "Steamed Rice",
+      "signature_dish": "Maacher Jhol (Fish Curry)",
+      "spice_level": 3,
+      "is_traditionally_vegetarian": false,
+      "serving_style": "Courses served sequentially on a plate"
+    },
+    {
+      "id": 5,
+      "name": "Rajasthani Thali",
+      "region_of_origin": "Rajasthan",
+      "primary_flavor_profile": "Spicy and Earthy",
+      "main_protein_source": "Lentils & Lamb",
+      "staple_grain": "Millet & Wheat Breads",
+      "signature_dish": "Dal Baati Churma",
+      "spice_level": 4,
+      "is_traditionally_vegetarian": false,
+      "serving_style": "On a large steel or silver plate"
+    },
+    {
+      "id": 6,
+      "name": "Maharashtrian Thali",
+      "region_of_origin": "Maharashtra",
+      "primary_flavor_profile": "Spicy and Zesty",
+      "main_protein_source": "Lentils & Chicken",
+      "staple_grain": "Sorghum/Millet Breads",
+      "signature_dish": "Pithla Bhakri",
+      "spice_level": 4,
+      "is_traditionally_vegetarian": false,
+      "serving_style": "On a steel plate, often with a 'thecha' chutney"
+    },
+    {
+      "id": 7,
+      "name": "Kerala Sadhya",
+      "region_of_origin": "Kerala",
+      "primary_flavor_profile": "Mild and Coconut-rich",
+      "main_protein_source": "Lentils & Vegetables",
+      "staple_grain": "Red Matta Rice",
+      "signature_dish": "Avial (Mixed Vegetables in Coconut)",
+      "spice_level": 2,
+      "is_traditionally_vegetarian": true,
+      "serving_style": "Lavish feast served on a banana leaf"
+    },
+    {
+      "id": 8,
+      "name": "Goan Thali",
+      "region_of_origin": "Goa",
+      "primary_flavor_profile": "Tangy and Coastal",
+      "main_protein_source": "Fish & Prawns",
+      "staple_grain": "Parboiled Rice",
+      "signature_dish": "Goan Fish Curry",
+      "spice_level": 4,
+      "is_traditionally_vegetarian": false,
+      "serving_style": "On a plate, always featuring a seafood curry"
+    },
+    {
+      "id": 9,
+      "name": "Kashmiri Wazwan",
+      "region_of_origin": "Kashmir",
+      "primary_flavor_profile": "Aromatic and Rich",
+      "main_protein_source": "Lamb (Mutton)",
+      "staple_grain": "Saffron Rice",
+      "signature_dish": "Rogan Josh",
+      "spice_level": 3,
+      "is_traditionally_vegetarian": false,
+      "serving_style": "Multi-course meal served on a 'traem' (copper platter)"
+    },
+    {
+      "id": 10,
+      "name": "Tamil Saapadu",
+      "region_of_origin": "Tamil Nadu",
+      "primary_flavor_profile": "Sour and Spiced",
+      "main_protein_source": "Lentils & Vegetables",
+      "staple_grain": "White Ponni Rice",
+      "signature_dish": "Sambar",
+      "spice_level": 3,
+      "is_traditionally_vegetarian": true,
+      "serving_style": "Served on a banana leaf with items in specific spots"
+    }
+  ]
